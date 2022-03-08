@@ -1,5 +1,5 @@
 # BRACU_Management_System
-University Management System Using Excel. 
+A University Management System Using Excel. 
 Made a password system and the password is "okay". 
 Made 3 buttons which are linked with other sheets. 
 Did some basic commands like "ROWS", "SUM". 
